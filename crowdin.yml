@@ -1,0 +1,4 @@
+files:
+  - source: /folder/source/langs.zh_CN.json
+    translation: /folder/translated/langs.%locale_with_underscore%.json
+    multilingual: 1
